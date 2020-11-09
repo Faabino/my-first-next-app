@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 5vh;
+}
+
+article {
+  text-align: justify;
+}
