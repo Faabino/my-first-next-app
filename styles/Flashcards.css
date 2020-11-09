@@ -1,0 +1,31 @@
+.card,
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  margin: 5vh;
+  border: none;
+}
+
+.card-body {
+  color: white;
+  width: 80vh;
+  height: 40vh;
+}
+
+.form-control {
+  width: 60vh;
+}
+
+.btn-flashcard {
+  margin-top: 2vh;
+}
+
+.clickable-card {
+  cursor: pointer;
+}

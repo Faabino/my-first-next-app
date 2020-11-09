@@ -1,0 +1,67 @@
+{
+  "mentalQuestions": [
+    {
+      "type": "mental",
+      "question": "Whose head is equal to 0 + 0?",
+      "answer": "toto"
+    },
+    {
+      "type": "mental",
+      "question": "Which music group holds the record for the best-selling album in United Kingdom history?",
+      "answer": "Queen"
+    },
+    {
+      "type": "mental",
+      "question": "Which one of Prince's songs reached highest on the music charts?",
+      "answer": "When Dove's Cry"
+    }
+  ],
+
+  "inputQuestions": [
+    {
+      "type": "input",
+      "question": "Whose head is equal to 0 + 0?",
+      "answer": "toto"
+    },
+    {
+      "type": "input",
+      "question": "An album or single is certified diamond by the Recording Industry Association of America (RIAA) if it has sold at least how many copies? (in millions)",
+      "answer": "10"
+    },
+    {
+      "type": "input",
+      "question": "What is the number on the Zidane's Real Madrid jersey?",
+      "answer": "5"
+    }
+  ],
+
+  "radioQuestions": [
+    {
+      "type": "radio",
+      "question": "Whose head is equal to 0 + 0?",
+      "rightAnswer": "toto",
+      "wrongAnswers": [
+        "titi",
+        "tata"
+      ]
+    },
+    {
+      "type": "radio",
+      "question": "What was the number one US ringtone of 2005?",
+      "rightAnswer": "Candyshop by 50 Cent",
+      "wrongAnswers": [
+        "René La Taupe",
+        "Photograph by Nickelback"
+      ]
+    },
+    {
+      "type": "radio",
+      "question": "Who is the killer in Friday the 13th (1980)",
+      "rightAnswer": "Pamela Voorhees",
+      "wrongAnswers": [
+        "Jason Voorhees",
+        "Crazy Ralph"
+      ]
+    }
+  ]
+}

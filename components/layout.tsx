@@ -21,6 +21,11 @@ export default function Layout() {
               Article 2
             </NavDropdown.Item>
           </NavDropdown>
+          <NavDropdown title="Flash cards" id="basic-nav-dropdown">
+            <NavDropdown.Item href="/mental-flashcard">Mental</NavDropdown.Item>
+            <NavDropdown.Item href="/input-flashcard">Input</NavDropdown.Item>
+            <NavDropdown.Item href="/radio-flashcard">Radio</NavDropdown.Item>
+          </NavDropdown>
         </Nav>
         <Form inline>
           <FormControl type="text" placeholder="Search" className="mr-sm-2" />
